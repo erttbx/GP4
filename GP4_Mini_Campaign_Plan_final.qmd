@@ -1,0 +1,510 @@
+---
+title: "GP4 - Mini Campaign Plan"
+subtitle: "CPP Farm Store Integrated Campaign"
+author: "Group2：Yushan Huang,Grace Sen,Yujia Luo,Phu Loi,Wenting Jiang"
+date: 7-19-2026
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    theme: cosmo
+    code-fold: true
+---
+
+# Campaign Overview
+
+This campaign plan proposes an integrated marketing campaign for CPP Farm Store that connects social media, Google product discovery, the Shopify storefront, and the physical store experience. The campaign builds on the customer journey, Shopify prototype, and product feed work completed earlier in the project.
+
+The proposed campaign theme is:
+
+> **Fresh, Local, and Right on Campus**
+
+The campaign is designed to help Cal Poly Pomona students discover CPP Farm Store products online, understand the value of shopping locally, and move smoothly from awareness to online browsing and in-store purchase or pickup.
+
+# Step 1: Business Problem or Opportunity
+
+CPP Farm Store offers a unique combination of fresh produce, campus-made food products, seasonal items, gifts, and locally connected shopping experiences. However, many Cal Poly Pomona students are not fully aware of the store, its product variety, or the convenience of discovering products online before visiting in person.
+
+The main business problem is a gap between product availability and customer awareness. Students may pass through campus every day without knowing what CPP Farm Store sells, which products are currently available, or why the store is different from a regular grocery store. Even when customers know the store exists, they may not have an easy way to preview products, compare options, or plan a visit.
+
+This creates several related challenges:
+
+-   Low awareness among students and other members of the CPP community.
+-   Limited online product discovery before an in-store visit.
+-   Weak connection between social media, Google search, the Shopify website, and the physical store.
+-   Seasonal and specialty products may not receive enough attention.
+-   Customers may not know store hours, location details, or pickup options.
+-   The store may miss opportunities to encourage repeat visits.
+
+At the same time, this problem creates a strong business opportunity. The improved Shopify prototype gives CPP Farm Store a more attractive and organized online storefront. Product pages can now highlight items such as Apple Cider Jelly, artichokes, red pomegranates, and CPP ice cream with clearer images, descriptions, pricing, and collection organization. By connecting this online experience with social media, Google listings, campus promotion, and in-store activity, CPP Farm Store can make its products easier to discover and purchase.
+
+The campaign therefore addresses the following opportunity:
+
+> **CPP Farm Store can increase awareness and customer engagement by creating a stronger connection between online product discovery and the in-store shopping experience.**
+
+# Step 2: Campaign Objective
+
+The primary objective of the campaign is to increase awareness of CPP Farm Store among Cal Poly Pomona students and encourage them to visit the Shopify storefront to explore products before making an in-store purchase or pickup.
+
+A specific campaign objective is:
+
+> **During the campaign period, increase student traffic to the CPP Farm Store Shopify website and encourage more product page visits, store visits, and interest in seasonal or featured products.**
+
+This objective will be supported by three smaller goals:
+
+1.  Increase awareness of CPP Farm Store products among CPP students.
+2.  Drive traffic from social media, Google, and campus promotions to the Shopify website.
+3.  Encourage customers to complete the journey through an in-store visit, pickup, or future repeat purchase.
+
+The campaign does not focus only on general sales growth. Instead, it explains how sales opportunities can be created by improving product discovery, strengthening the connection between channels, and giving customers clearer reasons to visit the store.
+
+# Step 3: Target Audience
+
+## Primary Audience
+
+The primary target audience is current Cal Poly Pomona students, especially undergraduate students between approximately 18 and 25 years old who spend time on campus and regularly use mobile devices, social media, and Google search to discover products, food, events, and local businesses.
+
+## Demographic Characteristics
+
+The target audience includes:
+
+-   Current CPP undergraduate and graduate students.
+-   Primarily customers between 18 and 25 years old.
+-   Students living on campus, commuting to campus, or living nearby.
+-   Students with limited time between classes, work, and other responsibilities.
+-   Budget-conscious customers who still value quality and convenience.
+
+A secondary audience may include CPP faculty, staff, alumni, parents, campus visitors, and nearby community members. However, students are the main focus because they are already located near the store and can be reached efficiently through campus and digital channels.
+
+## Motivations
+
+Students may be motivated to shop at CPP Farm Store because they want:
+
+-   Fresh and high-quality products.
+-   Convenient shopping close to classes or campus activities.
+-   Unique CPP-branded or campus-connected products.
+-   Seasonal fruit, vegetables, desserts, and gift items.
+-   Products that feel more local and authentic than mass-market alternatives.
+-   Opportunities to support the CPP community and university programs.
+-   Affordable items for personal use, sharing, or gifts.
+
+## Shopping Behavior
+
+The target audience commonly begins the shopping journey online. Students may first see a product through Instagram, TikTok, a campus newsletter, Google Search, or a recommendation from a friend. They are likely to browse quickly on a mobile device and decide whether a product is interesting based on images, price, convenience, and availability.
+
+Many students may not make an immediate online purchase. Instead, they may use the Shopify website as a discovery and planning tool before visiting the physical store. This makes clear product pages, collections, store information, and calls to action especially important.
+
+## Pain Points
+
+The main customer pain points include:
+
+-   Not knowing CPP Farm Store exists or where it is located.
+-   Not knowing which products are currently available.
+-   Difficulty discovering seasonal or specialty products.
+-   Uncertainty about store hours or pickup options.
+-   Limited time to browse in person.
+-   Lack of clear product descriptions or appealing product images.
+-   No strong reminder to return after the first visit.
+
+## Relevant Touchpoints
+
+Important customer touchpoints include:
+
+-   Instagram and TikTok posts or short videos.
+-   Google Search and Google Shopping listings.
+-   Shopify homepage, collection pages, and product pages.
+-   Campus signage and student newsletters.
+-   Google Maps and store information pages.
+-   In-store displays and product signage.
+-   Email or social media follow-up after the first visit.
+
+## Why This Audience Matters
+
+CPP students are highly relevant because they are already physically close to the store and are part of the community CPP Farm Store represents. Reaching students can generate immediate store visits while also building long-term awareness and loyalty. Students can also influence other customers through word of mouth, social sharing, clubs, campus events, and recommendations to friends and family.
+
+# Step 4: Core Campaign Message
+
+The core campaign message is:
+
+> **Fresh, Local, and Right on Campus**
+
+This message directly connects the target audience's needs with CPP Farm Store's value. Students want products that are convenient, fresh, interesting, and easy to discover. CPP Farm Store can meet those needs by offering unique local products in a location that is already part of students' daily campus routines.
+
+The campaign message can be supported by additional phrases such as:
+
+-   **Discover what is fresh this week.**
+-   **Shop local and support CPP.**
+-   **Campus-grown favorites, only steps away.**
+-   **Find fresh produce, sweet treats, and seasonal gifts at CPP Farm Store.**
+
+The message should feel friendly, convenient, and connected to campus life. It should not sound like a generic supermarket advertisement. Instead, it should remind customers that CPP Farm Store offers a distinctive shopping experience that combines freshness, community, and university identity.
+
+## Customer Need and Store Value
+
+| Customer Need | CPP Farm Store Value |
+|----|----|
+| Convenient shopping | A store located on or near the CPP campus |
+| Fresh and local products | Produce and specialty items connected to CPP and the local community |
+| Easy product discovery | Organized Shopify collections and detailed product pages |
+| Affordable gifts and treats | Jellies, fruit, ice cream, and seasonal items suitable for sharing or gifting |
+| Trust and authenticity | A store connected directly to Cal Poly Pomona |
+| Quick shopping decisions | Product photos, prices, descriptions, and store information available online |
+
+# Step 5: Channel Strategy
+
+The campaign will use a combination of digital, campus, and in-store channels. Each channel has a different role in the customer journey, but all channels should use consistent visuals, messaging, and links.
+
+## Shopify Website
+
+The Shopify website will serve as the central campaign destination. Social posts, Google listings, email messages, and QR codes should direct customers to the website.
+
+The website should:
+
+-   Feature the campaign message on the homepage.
+-   Highlight seasonal and featured products.
+-   Use clear collection pages to organize products.
+-   Include detailed product descriptions, photos, prices, and availability information.
+-   Make store hours, location, and pickup information easy to find.
+-   Use strong calls to action such as “Explore Fresh Products,” “View This Week's Favorites,” or “Plan Your Store Visit.”
+
+Shopify is appropriate because it gives customers one consistent place to learn about products and move closer to purchase.
+
+## Instagram
+
+Instagram will be the primary awareness and engagement channel because it matches the media habits of many college students. It can be used for product photos, Reels, Stories, polls, countdowns, and seasonal announcements.
+
+Instagram content may include:
+
+-   Short product spotlight videos.
+-   “Fresh This Week” posts.
+-   Behind-the-scenes content.
+-   Student reactions or recommendations.
+-   Seasonal product announcements.
+-   Links to featured Shopify collections.
+
+Instagram is appropriate because it provides strong visual storytelling and can quickly direct students from discovery to the online storefront.
+
+## TikTok
+
+TikTok can support awareness through short, informal, and student-friendly videos. Content should feel natural rather than overly polished.
+
+Possible TikTok topics include:
+
+-   “What can you buy at CPP Farm Store?”
+-   A quick store tour.
+-   A featured product taste test.
+-   A seasonal product reveal.
+-   A student shopping challenge with a limited budget.
+
+TikTok is appropriate because it can create curiosity and reach students through short-form video content.
+
+## Google Search and Google Shopping
+
+Google Search and Google Shopping can help customers discover CPP Farm Store when they are actively looking for a product, gift, dessert, produce item, or local store.
+
+The product feed should use clear titles, accurate pricing, strong product images, and relevant descriptions. Products such as Apple Cider Jelly, fresh artichokes, red pomegranates, and CPP ice cream should be described in a way that matches likely customer searches.
+
+Google is appropriate because it supports high-intent discovery. Customers who search for a specific product are often closer to making a purchase than customers who only see a general advertisement.
+
+## Email and Student Newsletter
+
+Email can be used to announce featured products, seasonal collections, store events, or limited-time offers. The student newsletter can also provide broad campus exposure.
+
+Email content should be short and visual, with one main call to action linking to the Shopify website. For example, an email could feature “This Week at CPP Farm Store” and include three highlighted products.
+
+Email is appropriate because it can reach customers directly and encourage repeat engagement after the first website visit or store purchase.
+
+## Campus Signage
+
+Campus posters, digital screens, table tents, and flyers can reach students while they are already on campus. Each sign should include a QR code that leads directly to the campaign landing page or featured collection.
+
+Signage should focus on one simple message, such as:
+
+> **Fresh, Local, and Right on Campus — Scan to See What Is Available This Week.**
+
+Campus signage is appropriate because it reaches customers close to the physical store and can convert awareness into an immediate visit.
+
+## Google Maps
+
+Google Maps should provide accurate store hours, location information, photos, and directions. Customers who find CPP Farm Store through other campaign channels may use Google Maps as the final step before visiting.
+
+Google Maps is appropriate because it reduces confusion and helps customers complete the transition from online interest to an in-person visit.
+
+## In-Store Displays
+
+In-store signage and displays should continue the same campaign message customers see online. Featured products should be easy to recognize, and signs may include QR codes leading to related Shopify collections or social media pages.
+
+In-store displays are appropriate because they reinforce campaign consistency and can introduce customers to additional products after they arrive.
+
+# Step 6: Omnichannel Flow
+
+The campaign is designed as one connected customer experience rather than a group of separate promotional activities.
+
+```{mermaid}
+flowchart LR
+    A[Instagram, TikTok, Campus Signs, or Email] --> B[Shopify Campaign Landing Page]
+    G[Google Search or Google Shopping] --> C[Shopify Product Page]
+    B --> C
+    C --> D[Check Product Details, Price, Hours, and Location]
+    D --> E[Visit CPP Farm Store or Use Pickup Option]
+    E --> F[In-Store Purchase and Product Discovery]
+    F --> H[Follow Social Media or Join Email List]
+    H --> I[Return for Seasonal Products and Repeat Purchase]
+```
+
+## Awareness Stage
+
+Instagram, TikTok, campus signage, student newsletters, and email introduce the campaign message and featured products. The goal is to create curiosity and communicate that CPP Farm Store offers fresh, local, and unique products on campus.
+
+## Discovery Stage
+
+Customers click a social media link, scan a QR code, or use Google Search and Google Shopping. They arrive at the Shopify homepage, campaign landing page, collection page, or product page.
+
+At this stage, customers should be able to quickly understand:
+
+-   What the product is.
+-   Why it is valuable or unique.
+-   How much it costs.
+-   Whether it is seasonal or limited.
+-   Where the store is located.
+-   When the store is open.
+-   Whether pickup is available.
+
+## Consideration Stage
+
+The customer compares products, views photos, reads descriptions, and explores related items. Featured collections can encourage customers to discover more than one product. For example, a customer who visits the Apple Cider Jelly page may also see fresh fruit, CPP ice cream, or seasonal gift items.
+
+## Conversion Stage
+
+The Shopify website directs the customer toward the next action. Depending on the store's available services, this may include visiting the physical store, using an in-store pickup option, or saving product information for a later visit.
+
+Google Maps, store hours, directions, and pickup details should be easy to access so that the customer does not lose interest before arriving.
+
+## In-Store Experience
+
+When customers arrive, the featured products and campaign message should match what they saw online. Consistent product images, signs, and displays help customers quickly locate promoted items and build trust in the campaign.
+
+Employees or in-store signs can also recommend related products, seasonal items, or future promotions.
+
+## Retention Stage
+
+After a store visit or purchase, customers should be encouraged to follow CPP Farm Store on social media, subscribe to email updates, or return to the Shopify website. Future messages can promote new seasonal items, weekly product highlights, events, or gift collections.
+
+The complete omnichannel experience can be summarized as:
+
+> **See it online → Explore it on Shopify → Find the store easily → Purchase in person or pick up → Stay connected → Return again**
+
+# Step 7: Campaign Tactics
+
+> The campaign will use several coordinated tactics to encourage students to discover CPP Farm Store products online and visit the store in person.
+
+## Seasonal Product Spotlight
+
+Each week, CPP Farm Store will feature one or two **seasonal products**, such as fresh strawberries, CPP Grown mandarin oranges, or fresh artichokes. These featured products will appear on the Shopify homepage, Instagram, TikTok, and Google product listings to encourage customers to explore what is currently available.
+
+## "Fresh Arrivals" Social Media Series
+
+Instagram and TikTok will feature a weekly **"Fresh Arrivals"** series highlighting newly harvested produce, popular products, and limited-time seasonal items. Short videos, product photos, and behind-the-scenes content will help students learn about the Farm Store while creating excitement around new arrivals.
+
+## Featured Gift Basket Promotion
+
+Because gift baskets are one of CPP Farm Store's signature products, the campaign will promote customizable gift baskets for birthdays, holidays, thank-you gifts, and special campus events. A **featured banner** on the Shopify homepage will link directly to the **Gift Basket collection**, making it easy for customers to discover and purchase gift options.
+
+## Campus QR Code Promotion
+
+Place QR code posters in **high-traffic campus locations** such as the Bronco Bookstore, CPP library, and residence halls. The QR code will direct students to the Shopify homepage, where they can browse products, check store hours, and view pickup information before visiting the Farm Store. This tactic connects offline promotion with the online storefront and makes discovering the Farm Store quick and convenient.
+
+## Email Campaign
+
+A short monthly email such as **"What's Fresh at CPP Farm Store?"** will introduce featured products, seasonal promotions, and upcoming events. Each email will include product images and a direct link to the Shopify store, encouraging repeat visits and keeping customers engaged throughout the semester.
+
+During holidays and special occasions such as Thanksgiving, Christmas, Valentine's Day, and graduation season, the emails will highlight **limited-time gift baskets** and **seasonal bundles** to encourage early purchases. Personalized product recommendations based on previous purchases or browsing behavior can also be included to make the content more relevant.
+
+# Step 8: Budget Recommendation
+
+Although CPP Farm Store operates with limited marketing resources, a carefully planned budget can effectively support an integrated omnichannel campaign. This budget is designed to increase awareness among Cal Poly Pomona students, drive traffic to the Shopify store, and encourage both first-time and repeat purchases through a combination of paid and organic marketing activities.
+
+## Recommended Campaign Budget
+
+The recommended total campaign budget is **\$5,000** for one campaign period.
+
+| Marketing Channel | Budget | Percentage | Purpose |
+|:---|---:|---:|:---|
+| Instagram & TikTok Ads | \$1,500 | 30% | Increase awareness and engagement among CPP students through short-form videos and promotional posts. |
+| Google Search & Google Shopping | \$1,200 | 24% | Improve online product discovery for customers searching for fresh produce and campus gifts. |
+| Campus Signage & QR Code Promotion | \$800 | 16% | Drive students from physical campus locations to the Shopify website and Farm Store. |
+| Content Creation | \$700 | 14% | Create high-quality product photos, short videos, seasonal graphics, and promotional content. |
+| Email Marketing | \$300 | 6% | Promote seasonal products, announce special offers, and encourage repeat purchases. |
+| Campaign Monitoring & Optimization | \$500 | 10% | Analyze campaign performance, optimize advertising, and improve future marketing decisions. |
+
+**Total Campaign Budget: \$5,000**
+
+## Budget Allocation Rationale
+
+The largest portion of the budget is allocated to Instagram, TikTok, and Google because these platforms are the most effective channels for reaching college students. Social media advertisements help increase awareness among students who may not know that CPP Farm Store exists, while Google Search and Google Shopping improve online visibility for customers actively searching for fresh produce or local shopping options.
+
+Campus signage and QR code promotions receive additional funding because students spend most of their time on campus. Posters placed in high-traffic locations can encourage students to scan QR codes and visit the Shopify store, creating a seamless connection between offline and online experiences.
+
+Content creation is also an important investment because attractive product photos and short videos improve engagement across multiple channels. A smaller portion of the budget is dedicated to email marketing, which is a cost-effective way to communicate with returning customers and promote seasonal products. Finally, part of the budget is reserved for campaign monitoring and optimization to ensure that marketing resources are continuously invested in the highest-performing channels.
+
+## Organic and Paid Marketing Activities
+
+The campaign combines both paid and organic marketing strategies to maximize effectiveness while keeping costs reasonable.
+
+### Paid Marketing
+
+-   Instagram advertisements
+-   TikTok advertisements
+-   Google Search Ads
+-   Google Shopping campaigns
+-   Campus posters and printed promotional materials
+
+### Organic Marketing
+
+-   Weekly Instagram and TikTok posts
+-   Shopify homepage updates
+-   Google Business Profile updates
+-   Email newsletters
+-   In-store displays with QR codes
+
+Using both paid and organic tactics allows CPP Farm Store to expand its reach while building long-term customer relationships.
+
+## Priority Marketing Channels
+
+The campaign prioritizes marketing channels based on the target audience and campaign objectives.
+
+1.  **Instagram & TikTok** – Build awareness and engage students through visual content.
+2.  **Google Search & Google Shopping** – Help customers discover products when searching online.
+3.  **Shopify Website** – Provide detailed product information and support online browsing.
+4.  **Campus Signage & QR Codes** – Connect offline traffic with the online store.
+5.  **Email Marketing** – Encourage repeat purchases and maintain customer engagement.
+
+This balanced budget supports the complete customer journey by increasing awareness, improving product discovery, encouraging purchases, and strengthening long-term customer retention.
+
+# Step 9: KPIs and Measurement
+
+To evaluate whether the campaign is successful, CPP Farm Store should monitor key performance indicators (KPIs) that align with the campaign objectives. These metrics measure awareness, customer engagement, online product discovery, in-store visits, and long-term customer retention.
+
+### Awareness KPIs
+
+The first goal of the campaign is to increase awareness of CPP Farm Store among Cal Poly Pomona students. Success can be measured by:
+
+-   Instagram and TikTok reach
+-   Social media impressions
+-   Video views
+-   Engagement rate, including likes, comments, shares, and saves
+-   QR code scans from campus signage
+
+These metrics indicate whether students are discovering the campaign and interacting with its content.
+
+### Discovery KPIs
+
+The campaign encourages students to explore products online before visiting the store. Important metrics include:
+
+-   Shopify website visits
+-   Product page views
+-   Collection page views
+-   Average session duration
+-   Google Search impressions
+-   Google Shopping impressions
+-   Click-through rate (CTR)
+
+These KPIs show whether customers are successfully finding CPP Farm Store products through digital channels.
+
+### Conversion KPIs
+
+The campaign should encourage students to take action after exploring products online. Conversion metrics include:
+
+-   Store visits
+-   Pickup inquiries or pickup orders
+-   Clicks on store directions through Google Maps
+-   Clicks on “Visit the Store” or other call-to-action buttons
+-   Featured product page visits
+
+These measurements help determine whether online engagement is leading to physical store visits and customer purchases.
+
+### Retention KPIs
+
+The campaign also aims to encourage repeat engagement and long-term customer relationships. Success can be measured through:
+
+-   Email newsletter sign-ups
+-   Social media followers gained
+-   Repeat website visits
+-   Repeat purchases
+-   Engagement with future seasonal campaigns
+
+These KPIs indicate whether customers continue interacting with CPP Farm Store after their first visit.
+
+### Overall Campaign Success
+
+The campaign will be considered successful if it increases awareness of CPP Farm Store, drives more students to the Shopify website, improves product discovery, and encourages more in-store visits or pickup orders. Performance data should be reviewed regularly to identify successful tactics and areas for improvement.
+
+### Campaign Key Performance Indicators (KPIs)
+
+| Campaign Objective | KPI | Measurement |
+|----|----|----|
+| Increase awareness | Instagram reach, impressions, and video views | Social media analytics |
+| Improve online product discovery | Shopify website visits, product page views, and Google Shopping CTR | Shopify Analytics and Google Merchant Center |
+| Encourage customer engagement | QR code scans and social media engagement | QR code analytics and social media insights |
+| Drive store visits | Store visits, Google Maps direction clicks, and pickup inquiries | Store records and Google Business Profile |
+| Build customer retention | Email sign-ups, repeat website visits, and repeat purchases | Email platform and Shopify Analytics |
+
+# Step 10: Optimization Plan
+
+The campaign should not be treated as something that is launched once and left alone. CPP Farm Store should review performance on a regular schedule, learn from the data, and reinvest effort and budget in what is working. We recommend a simple two-week review cycle throughout the campaign period.
+
+::: callout-tip
+## Optimization Principle
+
+Every KPI in Step 9 is connected to a specific channel, so when a number underperforms, the campaign tells us exactly where to look. Strong reach but few clicks means a message problem. Strong clicks but few store visits means a trust or logistics problem on the website. Strong visits but few email signups means a retention problem in the store.
+:::
+
+## Test and Compare Creative Messages
+
+During the first two weeks, the campaign should run two versions of its core content and keep the winners:
+
+-   Two styles of "Fresh Arrivals" video, one focused on the products themselves and one focused on students and behind-the-scenes farm content, compared by views and engagement rate.
+-   Two product title styles in Google Shopping listings, drawn from the original and optimized titles in our GP3 product feed, compared by click-through rate.
+-   Two QR code poster messages on campus, compared by scan counts from different locations.
+
+## Monitor Best-Selling and Best-Performing Products
+
+The team should track which featured products get the most product page views, the most clicks from Google listings, and the most attention in store. Products that consistently perform well, such as strawberries or the gift baskets, should receive more visibility on the homepage, in emails, and in paid promotion. Products that get impressions but few clicks may need better photos, titles, or pricing display.
+
+## Adjust Budget Based on Performance
+
+At each two-week checkpoint, the \$500 monitoring and optimization reserve, plus any underspent budget, should be shifted toward the channel with the lowest cost per website visit or store visit. For example, if Instagram Reels outperform TikTok ads, TikTok spending should be reduced and reallocated. If free Google listings drive strong traffic on their own, part of the paid Google budget can move to boosting the best social content instead.
+
+## Improve Landing Pages
+
+Website analytics should guide small improvements to the Shopify store during the campaign. If customers arrive on product pages but leave quickly, the team should check that photos, prices, availability, and store hours are immediately visible. If the campaign landing collection gets traffic but few product clicks, the featured products or layout should be updated. These improvements also build on the storefront design work from earlier in the project.
+
+## Update the Product Feed Continuously
+
+The Google product feed should be treated as a living document. Availability must be updated whenever products sell out or come back in season so listings never advertise something the store cannot provide. Any warnings from Google Merchant Center should be fixed as they appear, and the feed-quality checklist from our GP3 report, correct landing page URLs, one price per product, valid availability values, and real images, should be re-checked at every review cycle.
+
+## Track Seasonal Demand
+
+Because the Farm Store's inventory changes with the seasons, the campaign should track which searches and products rise and fall over time. As one season ends, the "Fresh Arrivals" series, featured collections, and email content should rotate toward the next season's products, such as moving from strawberries toward fall items, so the audience relationship continues instead of ending when the campaign period does.
+
+## Post-Campaign Review
+
+At the end of the campaign period, the team should compare actual results against each KPI in Step 9, identify the best-performing channel and tactic, and document what should change in the next campaign. A short survey in the email newsletter asking customers how they first discovered CPP Farm Store would also help confirm which channels truly drive new visits.
+
+# Conclusion
+
+This campaign responds to a clear business opportunity: CPP Farm Store has appealing products and an improved online storefront, but it needs a stronger system for helping students discover those products and move from online interest to an in-store visit. By using a consistent message across Shopify, social media, Google, email, campus signage, Google Maps, and the physical store, CPP Farm Store can create a more convenient and connected customer journey.
+
+The campaign theme, **Fresh, Local, and Right on Campus**, positions CPP Farm Store as both a practical shopping destination and a unique part of the Cal Poly Pomona community.
+
+# Appendix
+
+## Published Website
+
+[CPP Farm Store Campaign Plan - GitHub Pages](https://erttbx.github.io/GP4/)
+
+## GitHub Repository
+
+[Project GitHub Repository](https://github.com/erttbx/GP4)
